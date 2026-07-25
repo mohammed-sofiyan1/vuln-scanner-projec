@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+scan_report_*.txt
+.venv/
+EOF~
+git innit
+git add
+git commit -m "Initial commit: working vuln scanner"
+

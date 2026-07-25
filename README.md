@@ -1,3 +1,4 @@
+<img width="650" height="442" alt="Screenshot 2026-07-25 140550" src="https://github.com/user-attachments/assets/906c32e6-51d1-4f0f-b236-d57fd83357cf" />
 Python Vulnerability Scanner
 
 A lightweight CLI tool that scans a target host for open ports and services using Nmap, then cross-references detected service versions against the National Vulnerability Database (NVD) to identify known CVEs.
